@@ -1,0 +1,23 @@
+body{
+    background-image: url(./images/dracula-untold-vampire-4k-4dqfz169bob4zq24.jpg);
+    background-size:cover ;
+}
+#logo {
+ margin-left: 9%;
+}
+.navigation{
+float:right ;
+margin-top: 20px;
+    margin-top: 26px;
+}
+.navigation a{
+    font-family: 'Times New Roman', Times, serif;
+color: rgb(188, 32, 32);
+text-decoration: none;
+border: 2px solid black;
+padding: 3px;
+}
+.navigation a:hover{
+    background-color:red;
+    color: black;
+}
